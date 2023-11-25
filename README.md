@@ -21,7 +21,7 @@ Welcome to the Telegram File Storing Bot! This bot allows you to easily store an
   - [File Sharing Bot](https://github.com/codeXBotz/File-Sharing-Bot)
   - [Pyrogram](https://github.com/pyrogram/pyrogram)
   - [Python](https://python.org)
-  - Developed by [Nobitha](https://t.me/my_name_is_nobitha)
+  - [Nobitha](https://t.me/my_name_is_nobitha)  developed of sql database and reworked this repo.
 
 ## Deployment
 
