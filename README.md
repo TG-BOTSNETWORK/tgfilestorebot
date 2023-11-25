@@ -34,6 +34,7 @@ You can deploy this bot to Heroku using the following button:
    $ git clone https://github.com/TG-BOTSNETWORK/tgfilestorebot.git
    $ cd tgfilestorebot
    $ pip install -r requirements.txt
+   $ cp sample.env env
    $ python3 -m plugins
    ```
 
