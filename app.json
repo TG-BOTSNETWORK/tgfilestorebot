@@ -1,0 +1,34 @@
+{
+  "name": "TG File Share/Sharing Bot",
+  "description": "File sharing bot: store posts and access them through special links",
+  "keywords": ["telegram", "file", "sharing"],
+  "repository": "https://github.com/TG-BOTSNETWORK/tgfilestorebot",
+  "logo": "https://te.legra.ph/file/1c8075e3328e346cc2a21.jpg",
+  "env": {
+    "API_ID": "",
+    "API_HASH": "",
+    "BOT_TOKEN": "",
+    "SUDO_USERS": ["5857041668", "5810389985"],
+    "OWNER_ID": "",
+    "CHANNELS": "True",
+    "CHANNEL_ID": [],
+    "DATABASE_URL": "",
+    "BOT_USERNAME": "TgfileStoringBot",
+    "DB_CHANNEL": "",
+    "LOG_CHANNEL": "",
+    "FILE_STORE_CHANNEL": [],
+    "PUBLIC_FILE_STORE": "True",
+    "BOT_WORKERS": "4"
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
+}
