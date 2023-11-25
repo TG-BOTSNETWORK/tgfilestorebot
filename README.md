@@ -27,7 +27,7 @@ Welcome to the Telegram File Storing Bot! This bot allows you to easily store an
 
 You can deploy this bot to Heroku using the following button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TG-BOTSNETWORK/tgfilestorebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TG-BOTSNETWORK/tgfilestorebot)
 
 ### Manual Deployment (for Terminal Users/VPS)
    ```bash
