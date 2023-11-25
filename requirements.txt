@@ -1,0 +1,14 @@
+pyrogram==2.0.106
+TgCrypto
+mdisky
+shortzy
+aiofiles
+validators
+python-dotenv
+uvloop
+asyncio
+dnspython==2.3.0
+pymongo[srv]
+motor
+marshmallow
+psycopg2
